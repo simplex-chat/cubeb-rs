@@ -1,4 +1,4 @@
 [submodule "cubeb-sys/libcubeb"]
 	path = cubeb-sys/libcubeb
-	url = https://github.com/shumvgolove/cubeb
+	url = https://github.com/simplex-chat/cubeb
 	branch = simplex
